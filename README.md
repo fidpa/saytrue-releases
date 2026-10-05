@@ -78,7 +78,7 @@ Ist ein Text zu kurz, analysiert Saytrue ihn nicht und nennt den Grund. In Pro p
 
 ## Free und Pro
 
-Free und Pro sind getrennte Ausgaben der App. Unter Linux gibt es nur Pro, weil dort kein Store einen späteren Kauf ermöglicht.
+Free und Pro sind getrennte Ausgaben der App. Pro gibt es nur in den Stores; außerhalb davon, also auch unter Linux, gibt es Free, bis es dort einen Kaufweg gibt.
 
 | | Free | Pro |
 |---|---|---|
@@ -103,8 +103,8 @@ Free und Pro sind getrennte Ausgaben der App. Unter Linux gibt es nur Pro, weil 
 | macOS | Apple Silicon, Intel | Homebrew | Free |
 | Windows | x64 | Microsoft Store | Free, Pro |
 | Windows | x64 | Installer (NSIS), winget | Free |
-| Linux | x64, ARM64 | .deb, .rpm, .AppImage | Pro |
-| Linux | x64 | Snap | Pro |
+| Linux | x64, ARM64 | .deb, .rpm, .AppImage | Free |
+| Linux | x64 | Snap | Free |
 
 Stand aller Wege: geplant, noch nichts veröffentlicht. macOS mit Apple Silicon ist die Hauptplattform der Entwicklung. Unterschiede je Plattform: MLX-Whisper nur auf Apple Silicon; der App-Store-Build hat statt des globalen Tastenkürzels eines innerhalb der App; Store-Ausgaben aktualisieren sich über den Store.
 

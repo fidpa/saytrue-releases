@@ -29,7 +29,7 @@ Saytrue ist noch nicht veröffentlicht: Es gibt weder einen Store-Eintrag noch e
 
 Version 0.0.1, nicht veröffentlicht. Die Build-Workflows für macOS, Windows und Linux sind eingerichtet, ein Release gab es noch nicht. Die Vertriebswege unter [Plattformen](#plattformen) sind geplant; Links und Installationsbefehle folgen mit der ersten Veröffentlichung. iOS und Android sind in Arbeit.
 
-Preis und Geschäftsmodell stehen noch nicht fest.
+Free ist kostenlos, Pro wird ein Einmalkauf ohne Abo; der Preis steht noch nicht fest.
 
 ---
 

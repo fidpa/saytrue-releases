@@ -68,10 +68,10 @@ Ist ein Text zu kurz, analysiert Saytrue ihn nicht und nennt den Grund. In Pro p
 - **Formulierungsalternativen (Pro):** drei Fassungen derselben Aussage, direkt, empathisch und deeskalierend. Im Verlauf per Knopf, für Text aus anderen Programmen über das macOS-Dienste-Menü oder ein Tastenkürzel, das den markierten Text in Saytrue oder die Zwischenablage nimmt. In den Store-Ausgaben wirkt das Tastenkürzel nur, solange Saytrue im Vordergrund ist.
 - **Coaching (Pro):** fasst auf Anforderung die Ergebnisse der Analysen zu Hinweisen für das eigene Sprechen zusammen.
 - **Reflexionsmodus (Pro):** Selbstreflexion (eigener Text), Fremdreflexion (zum Beispiel eine erhaltene Nachricht) und Gespräch (mehrere Sprecher).
-- **Bibelimpuls und Gebet (Free, standardmäßig aus):** ein bis drei thematisch passende Bibelstellen (Schlachter 2000, lokal gespeichert) und ein kurzes Gebet zum Text.
+- **Bibelimpuls und Gebet (Free, standardmäßig aus):** ein bis drei thematisch passende Bibelstellen (Schlachter 2000 für Deutsch, World English Bible für die übrigen Sprachen, lokal gespeichert) und ein kurzes Gebet zum Text.
 - **Diktat und Schnellaufnahme:** Nur-Transkription mit gesprochener Zeichensetzung; Schnellaufnahme über das Tray-Menü legt den Text in die Zwischenablage (nicht unter Windows).
 - **Hilfe-Chat:** beantwortet Fragen zur App und zu den Ansätzen aus einer lokalen Wissensbasis.
-- **Speichern und Export:** Aufnahmen werden lokal gespeichert; der Verlauf lässt sich als Markdown, Text, PDF, HTML oder Word exportieren.
+- **Speichern und Export:** Aufnahmen werden lokal gespeichert; der Verlauf lässt sich als Markdown, Text, PDF oder Word exportieren.
 - **15 Sprachen:** Deutsch, Englisch, Spanisch, Französisch, Italienisch, Niederländisch, Portugiesisch, Polnisch, Schwedisch, Dänisch, Norwegisch, Tschechisch, Rumänisch, Russisch und Japanisch, in Oberfläche, Prompts und Transkription.
 
 ---
@@ -106,7 +106,7 @@ Free und Pro sind getrennte Ausgaben der App. Pro gibt es nur in den Stores; au�
 | Linux | x64, ARM64 | .deb, .rpm, .AppImage | Free |
 | Linux | x64 | Snap | Free |
 
-Stand aller Wege: geplant, noch nichts veröffentlicht. macOS mit Apple Silicon ist die Hauptplattform der Entwicklung. Unterschiede je Plattform: MLX-Whisper nur auf Apple Silicon; der App-Store-Build hat statt des globalen Tastenkürzels eines innerhalb der App; Store-Ausgaben aktualisieren sich über den Store.
+Stand aller Wege: geplant, noch nichts veröffentlicht. macOS mit Apple Silicon ist die Hauptplattform der Entwicklung. Unterschiede je Plattform: MLX-Whisper nur auf Apple Silicon; der App-Store-Build hat statt des globalen Tastenkürzels eines innerhalb der App; Store-Ausgaben aktualisieren sich über den Store, einen In-App-Updater gibt es nur bei den Linux-Paketen .deb und .AppImage. Die Linux-Pakete brauchen glibc 2.39 oder neuer (Ubuntu 24.04, Debian 13, Fedora 40 und neuer).
 
 ---
 

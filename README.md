@@ -118,7 +118,7 @@ Stand aller Wege: geplant, noch nichts veröffentlicht. macOS mit Apple Silicon 
 
 | Anbieter | Ort | Hinweis |
 |----------|-----|---------|
-| Ollama | lokal | Standard; empfohlenes Modell `qwen3:4b-custom`, außerdem 1.5B, 7B und `qwen3:8b` |
+| Ollama | lokal | Standard `qwen3:4b-custom`, ab 500 GB/s Speicherbandbreite empfohlen `qwen3:8b-custom` |
 | Apple Intelligence | lokal | ab macOS 26 auf Apple Silicon |
 | OpenAI | Cloud (USA) | nur mit Einwilligung |
 | Anthropic | Cloud (USA) | nur mit Einwilligung |

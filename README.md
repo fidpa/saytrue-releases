@@ -65,7 +65,7 @@ Ist ein Text zu kurz, analysiert Saytrue ihn nicht und nennt den Grund. In Pro p
 
 ## Weitere Funktionen
 
-- **Formulierungsalternativen (Pro):** drei Fassungen derselben Aussage, direkt, empathisch und deeskalierend. Im Verlauf per Knopf, für Text aus anderen Programmen über das macOS-Dienste-Menü oder ein Tastenkürzel, das den markierten Text in Saytrue oder die Zwischenablage nimmt. In den Store-Ausgaben wirkt das Tastenkürzel nur, solange Saytrue im Vordergrund ist.
+- **Formulierungsalternativen (Pro):** drei Fassungen derselben Aussage, direkt, empathisch und deeskalierend. Im Verlauf per Knopf, für Text aus anderen Programmen über das macOS-Dienste-Menü oder ein Tastenkürzel, das den markierten Text in Saytrue oder die Zwischenablage nimmt. Die Anrede erkennt Saytrue am Text; für einen Satz ohne eigene Anrede lässt sie sich im Dialog auf Du oder Sie stellen. In den Store-Ausgaben wirkt das Tastenkürzel nur, solange Saytrue im Vordergrund ist.
 - **Coaching (Pro):** fasst auf Anforderung die Ergebnisse der Analysen zu Hinweisen für das eigene Sprechen zusammen.
 - **Reflexionsmodus (Pro):** Selbstreflexion (eigener Text), Fremdreflexion (zum Beispiel eine erhaltene Nachricht) und Gespräch (mehrere Sprecher).
 - **Bibelimpuls und Gebet (Free, standardmäßig aus):** ein bis drei thematisch passende Bibelstellen (Schlachter 2000 für Deutsch, World English Bible für die übrigen Sprachen, lokal gespeichert) und ein kurzes Gebet zum Text.

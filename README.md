@@ -112,7 +112,7 @@ Stand aller Wege: geplant, noch nichts veröffentlicht. macOS mit Apple Silicon 
 
 ## Sprachmodelle
 
-**Transkription:** lokal mit whisper.cpp (german-turbo für Deutsch, kotoba-v2 für Japanisch, large-v3-turbo für die übrigen Sprachen), auf Apple Silicon wahlweise MLX-Whisper. Optional in der Cloud über OpenAI, nur mit ausdrücklicher Einwilligung, weil die Stimme ein biometrisches Datum ist.
+**Transkription:** lokal mit whisper.cpp (german-turbo für Deutsch, kotoba-v2 für Japanisch, large-v3-turbo für die übrigen Sprachen), auf Apple Silicon wahlweise MLX-Whisper. Optional in der Cloud über OpenAI, nur mit ausdrücklicher Einwilligung, weil das Gesagte sensible Angaben enthalten kann (etwa zu Gesundheit oder religiösen Überzeugungen); die Stimme selbst wertet Saytrue nicht aus.
 
 **Analyse und Umformulierung:**
 

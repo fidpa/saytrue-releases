@@ -2,7 +2,7 @@
 
 > **Die rechten Worte finden**
 
-[![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)](#stand)
+[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](#stand)
 [![Release](https://img.shields.io/badge/release-in%20Vorbereitung-yellow.svg)](#stand)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey.svg)](#plattformen)
 [![Languages](https://img.shields.io/badge/i18n-15%20languages-blue.svg)](#weitere-funktionen)
@@ -27,7 +27,7 @@ Saytrue ist noch nicht veröffentlicht: Es gibt weder einen Store-Eintrag noch e
 
 ## Stand
 
-Version 0.0.1, nicht veröffentlicht. Die Build-Workflows für macOS, Windows und Linux sind eingerichtet, ein Release gab es noch nicht. Die Vertriebswege unter [Plattformen](#plattformen) sind geplant; Links und Installationsbefehle folgen mit der ersten Veröffentlichung. iOS und Android sind in Arbeit.
+Version 0.1.0, nicht veröffentlicht. Die Build-Workflows für macOS, Windows und Linux sind eingerichtet, ein Release gab es noch nicht. Die Vertriebswege unter [Plattformen](#plattformen) sind geplant; Links und Installationsbefehle folgen mit der ersten Veröffentlichung. iOS und Android sind in Arbeit.
 
 Free ist kostenlos, Pro wird ein Einmalkauf ohne Abo; der Preis steht noch nicht fest.
 
@@ -154,4 +154,4 @@ Alle Rechte vorbehalten. Nutzungsbedingungen: [saytrue.de/eula](https://saytrue.
 
 ---
 
-**Autor:** Marc Allgeier | **Version:** 0.0.1
+**Autor:** Marc Allgeier | **Version:** 0.1.0

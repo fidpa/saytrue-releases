@@ -27,9 +27,9 @@ Saytrue ist noch nicht veröffentlicht: Es gibt weder einen Store-Eintrag noch e
 
 ## Stand
 
-Version 0.1.0, nicht veröffentlicht. Die Build-Workflows für macOS, Windows und Linux sind eingerichtet, ein Release gab es noch nicht. Die Vertriebswege unter [Plattformen](#plattformen) sind geplant; Links und Installationsbefehle folgen mit der ersten Veröffentlichung. iOS und Android sind in Arbeit.
+Version 0.1.0, nicht veröffentlicht. Die Build-Workflows für macOS, Windows und Linux sind eingerichtet und liefen einmal als Probelauf; ein Release gab es noch nicht. Die Vertriebswege unter [Plattformen](#plattformen) sind geplant; Links und Installationsbefehle folgen mit der ersten Veröffentlichung. iOS und Android sind in Arbeit.
 
-Free ist kostenlos, Pro wird ein Einmalkauf ohne Abo; der Preis steht noch nicht fest.
+Free ist kostenlos, Pro wird ein Einmalkauf ohne Abo; den Preis zeigen die Stores mit der Veröffentlichung.
 
 ---
 
@@ -37,7 +37,7 @@ Free ist kostenlos, Pro wird ein Einmalkauf ohne Abo; der Preis steht noch nicht
 
 1. **Eingabe:** Aufnahme über das Mikrofon, eine Audiodatei oder getippter Text. Gesprochenes wird lokal transkribiert.
 2. **Linsen wählen:** Eine Linse ist ein psychologischer Ansatz, unter dem Saytrue den Text betrachtet. Für jede Linse stellst du ein: **Aus**, **Analyse** oder **Vorschlag** (Vorschlag nur bei Linsen mit Umformulierung, siehe Tabelle).
-3. **Ergebnis im Verlauf:** Bei **Vorschlag** erscheint eine Umformulierung. Über ihr steht, was sie anders macht („Beobachtung statt Bewertung“), darunter ein Satz Begründung. Den Namen des Modells musst du dafür nicht kennen. Bei **Analyse** siehst du das Ergebnis der Analyse selbst, zum Beispiel die vier Seiten einer Nachricht.
+3. **Ergebnis im Verlauf:** Bei **Vorschlag** erscheint eine Umformulierung. Über ihr steht, was sie anders macht („Beobachtung statt Bewertung“); den Namen des psychologischen Modells musst du dafür nicht kennen. Bei **Analyse** siehst du das Ergebnis der Analyse selbst, zum Beispiel die vier Seiten einer Nachricht.
 
 Beim Text- und Audiodatei-Import bestimmen die Linsen, welche Analysen laufen. Bei der Live-Aufnahme legen das die Analyse-Einstellungen fest; die Umformulierungen folgen auch dort den Linsen.
 
@@ -52,13 +52,13 @@ Ist ein Text zu kurz, analysiert Saytrue ihn nicht und nennt den Grund. In Pro p
 | Emotion | Plutchik, Russell; Stimme und Text | keine | Free |
 | Ton | Formalität, Nähe, Direktheit, Energie, Stimmung | „Wärmer formuliert“ | Free |
 | Thema | sieben Kategorien | keine | Free |
-| Fehlschluss | 16 Typen von Argumentationsfehlern | „Mit konkretem Beispiel“ | Pro |
+| Fehlschluss | 16 Typen von Argumentationsfehlern | „Ohne Unterstellung“ | Pro |
 | Vier Seiten | Schulz von Thun | „Mit klarem Appell“ | Pro |
 | Gewaltfreie Kommunikation | Rosenberg | „Beobachtung statt Bewertung“ | Pro |
 | Kognitive Verzerrungen | Beck | „Ohne Übergeneralisierung“ | Pro |
 | Transaktionsanalyse | Berne | „Auf Augenhöhe“ | Pro |
 | Bewertung (Appraisal) | Lazarus, Scherer | „Aktiv gestaltbar formuliert“ | Pro |
-| Regulatorischer Fokus | Higgins | „Auf Chancen ausgerichtet“ | Pro |
+| Regulatorischer Fokus | Higgins | „Auf das Ziel ausgerichtet“ | Pro |
 | Sprechertrennung | nur im Modus Gespräch | keine | Pro |
 
 ---
@@ -106,7 +106,7 @@ Free und Pro sind getrennte Ausgaben der App. Pro gibt es nur in den Stores; au�
 | Linux | x64, ARM64 | .deb, .rpm, .AppImage | Free |
 | Linux | x64 | Snap | Free |
 
-Stand aller Wege: geplant, noch nichts veröffentlicht. macOS mit Apple Silicon ist die Hauptplattform der Entwicklung. Unterschiede je Plattform: MLX-Whisper nur auf Apple Silicon; der App-Store-Build hat statt des globalen Tastenkürzels eines innerhalb der App; Store-Ausgaben aktualisieren sich über den Store, einen In-App-Updater gibt es nur bei den Linux-Paketen .deb und .AppImage. Die Linux-Pakete brauchen glibc 2.39 oder neuer (Ubuntu 24.04, Debian 13, Fedora 40 und neuer).
+Stand aller Wege: geplant, noch nichts veröffentlicht; nur im Snap Store liegt eine Testfassung in den Kanälen edge und candidate, der Kanal stable ist leer. macOS mit Apple Silicon ist die Hauptplattform der Entwicklung. Unterschiede je Plattform: MLX-Whisper nur auf Apple Silicon; der App-Store-Build hat statt des globalen Tastenkürzels eines innerhalb der App; Store-Ausgaben aktualisieren sich über den Store, einen In-App-Updater gibt es nur bei den Linux-Paketen .deb und .AppImage. Die Linux-Pakete brauchen glibc 2.39 oder neuer (Ubuntu 24.04, Debian 13, Fedora 40 und neuer).
 
 ---
 

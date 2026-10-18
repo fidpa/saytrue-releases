@@ -3,12 +3,12 @@
 > **Die rechten Worte finden**
 
 [![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](#stand)
-[![Release](https://img.shields.io/badge/release-in%20Vorbereitung-yellow.svg)](#stand)
+[![Release](https://img.shields.io/badge/release-0.1.0-green.svg)](https://github.com/fidpa/saytrue-releases/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey.svg)](#plattformen)
 [![Languages](https://img.shields.io/badge/i18n-15%20languages-blue.svg)](#weitere-funktionen)
 
 Saytrue ist eine Desktop-App, die vorschlägt, wie du etwas anders sagen kannst: Du sprichst oder tippst einen Text, und die App formuliert ihn um, überschrieben mit dem, was die neue Fassung anders macht, etwa „Wärmer formuliert“ oder, in Pro, „Beobachtung statt Bewertung“ nach der Gewaltfreien Kommunikation.
-Saytrue ist noch nicht veröffentlicht: Es gibt weder einen Store-Eintrag noch einen Download.
+Version 0.1.0 ist veröffentlicht; Downloads und Store-Links stehen unter [Plattformen](#plattformen).
 
 ## Inhalt
 
@@ -27,7 +27,7 @@ Saytrue ist noch nicht veröffentlicht: Es gibt weder einen Store-Eintrag noch e
 
 ## Stand
 
-Version 0.1.0, nicht veröffentlicht. Die Build-Workflows für macOS, Windows und Linux sind eingerichtet und liefen einmal als Probelauf; ein Release gab es noch nicht. Die Vertriebswege unter [Plattformen](#plattformen) sind geplant; Links und Installationsbefehle folgen mit der ersten Veröffentlichung. iOS und Android sind in Arbeit.
+Version 0.1.0, veröffentlicht am 14.10.2026. Welche Wege schon offen sind, steht unter [Plattformen](#plattformen). iOS und Android sind in Arbeit.
 
 Free ist kostenlos, Pro wird ein Einmalkauf ohne Abo; den Preis zeigen die Stores mit der Veröffentlichung.
 
@@ -97,16 +97,16 @@ Free und Pro sind getrennte Ausgaben der App. Pro gibt es nur in den Stores; au�
 
 ## Plattformen
 
-| Plattform | Architektur | Geplanter Vertrieb | Ausgabe |
-|-----------|-------------|--------------------|---------|
-| macOS | Apple Silicon, Intel | Mac App Store | Free, Pro |
-| macOS | Apple Silicon, Intel | Homebrew | Free |
-| Windows | x64 | Microsoft Store | Free, Pro |
-| Windows | x64 | Installer (NSIS), winget | Free |
-| Linux | x64, ARM64 | .deb, .rpm, .AppImage | Free |
-| Linux | x64 | Snap | Free |
+| Plattform | Architektur | Vertrieb | Ausgabe |
+|-----------|-------------|----------|---------|
+| macOS | Apple Silicon, Intel | Mac App Store (in Prüfung) | Free, Pro |
+| macOS | Apple Silicon, Intel | Homebrew: `brew install --cask fidpa/saytrue/saytrue` | Free |
+| Windows | x64 | [Microsoft Store](https://apps.microsoft.com/detail/9P9290WR9C6J) (Pro in Prüfung) | Free, Pro |
+| Windows | x64 | Installer (NSIS) im [GitHub-Release](https://github.com/fidpa/saytrue-releases/releases/latest), winget folgt | Free |
+| Linux | x64, ARM64 | .deb, .rpm, .AppImage im [GitHub-Release](https://github.com/fidpa/saytrue-releases/releases/latest) | Free |
+| Linux | x64 | [Snap Store](https://snapcraft.io/saytrue): `sudo snap install saytrue` | Free |
 
-Stand aller Wege: geplant, noch nichts veröffentlicht; nur im Snap Store liegt eine Testfassung in den Kanälen edge und candidate, der Kanal stable ist leer. macOS mit Apple Silicon ist die Hauptplattform der Entwicklung. Unterschiede je Plattform: MLX-Whisper nur auf Apple Silicon; der App-Store-Build hat statt des globalen Tastenkürzels eines innerhalb der App; Store-Ausgaben aktualisieren sich über den Store, einen In-App-Updater gibt es nur bei den Linux-Paketen .deb und .AppImage. Die Linux-Pakete brauchen glibc 2.39 oder neuer (Ubuntu 24.04, Debian 13, Fedora 40 und neuer).
+Stand aller Wege (18.10.2026): Version 0.1.0 ist als GitHub-Release (macOS, Windows, Linux), über Homebrew und im Snap Store (Kanal stable) veröffentlicht; Saytrue Free ist im Microsoft Store erhältlich; Mac App Store und Saytrue Pro im Microsoft Store prüfen sie gerade, winget folgt. macOS mit Apple Silicon ist die Hauptplattform der Entwicklung. Unterschiede je Plattform: MLX-Whisper nur auf Apple Silicon; der App-Store-Build hat statt des globalen Tastenkürzels eines innerhalb der App; Store-Ausgaben aktualisieren sich über den Store, einen In-App-Updater gibt es nur bei den Linux-Paketen .deb und .AppImage. Die Linux-Pakete brauchen glibc 2.39 oder neuer (Ubuntu 24.04, Debian 13, Fedora 40 und neuer).
 
 ---
 

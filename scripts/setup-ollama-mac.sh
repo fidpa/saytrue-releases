@@ -366,7 +366,7 @@ setup_messages() {
       MSG_OLLAMA_CONFIG="Ollama configuration:"
       MSG_MODEL_LABEL="  Model:    "
       MSG_BASE_URL_LABEL="  Base URL: "
-      MSG_DOCS="Documentation: https://github.com/fidpa/saytrue-releases/blob/main/docs/reference/OLLAMA_SETUP.md"
+      MSG_DOCS="Documentation: https://saytrue.app/en/setup/#provider"
       # Status
       MSG_STATUS_TITLE_MAC="Saytrue Ollama Status (macOS)"
       MSG_STATUS_TITLE_LINUX="Saytrue Ollama Status (Linux)"
@@ -641,7 +641,7 @@ setup_messages() {
       MSG_OLLAMA_CONFIG="Configuración de Ollama:"
       MSG_MODEL_LABEL="  Modelo:   "
       MSG_BASE_URL_LABEL="  Base URL: "
-      MSG_DOCS="Documentación: https://github.com/fidpa/saytrue-releases/blob/main/docs/reference/OLLAMA_SETUP.md"
+      MSG_DOCS="Documentación: https://saytrue.app/es/setup/#provider"
       # Status
       MSG_STATUS_TITLE_MAC="Estado Ollama de Saytrue (macOS)"
       MSG_STATUS_TITLE_LINUX="Estado Ollama de Saytrue (Linux)"
@@ -916,7 +916,7 @@ setup_messages() {
       MSG_OLLAMA_CONFIG="Configuration Ollama :"
       MSG_MODEL_LABEL="  Modèle :   "
       MSG_BASE_URL_LABEL="  Base URL : "
-      MSG_DOCS="Documentation : https://github.com/fidpa/saytrue-releases/blob/main/docs/reference/OLLAMA_SETUP.md"
+      MSG_DOCS="Documentation : https://saytrue.app/fr/setup/#provider"
       # Status
       MSG_STATUS_TITLE_MAC="État Ollama Saytrue (macOS)"
       MSG_STATUS_TITLE_LINUX="État Ollama Saytrue (Linux)"
@@ -1191,7 +1191,7 @@ setup_messages() {
       MSG_OLLAMA_CONFIG="Configurazione Ollama:"
       MSG_MODEL_LABEL="  Modello:   "
       MSG_BASE_URL_LABEL="  Base URL: "
-      MSG_DOCS="Documentazione: https://github.com/fidpa/saytrue-releases/blob/main/docs/reference/OLLAMA_SETUP.md"
+      MSG_DOCS="Documentazione: https://saytrue.app/it/setup/#provider"
       # Status
       MSG_STATUS_TITLE_MAC="Stato Ollama Saytrue (macOS)"
       MSG_STATUS_TITLE_LINUX="Stato Ollama Saytrue (Linux)"
@@ -1466,7 +1466,7 @@ setup_messages() {
       MSG_OLLAMA_CONFIG="Ollama-configuratie:"
       MSG_MODEL_LABEL="  Model:    "
       MSG_BASE_URL_LABEL="  Base URL: "
-      MSG_DOCS="Documentatie: https://github.com/fidpa/saytrue-releases/blob/main/docs/reference/OLLAMA_SETUP.md"
+      MSG_DOCS="Documentatie: https://saytrue.app/nl/setup/#provider"
       # Status
       MSG_STATUS_TITLE_MAC="Saytrue Ollama Status (macOS)"
       MSG_STATUS_TITLE_LINUX="Saytrue Ollama Status (Linux)"
@@ -1741,7 +1741,7 @@ setup_messages() {
       MSG_OLLAMA_CONFIG="Configuração do Ollama:"
       MSG_MODEL_LABEL="  Modelo:    "
       MSG_BASE_URL_LABEL="  Base URL: "
-      MSG_DOCS="Documentação: https://github.com/fidpa/saytrue-releases/blob/main/docs/reference/OLLAMA_SETUP.md"
+      MSG_DOCS="Documentação: https://saytrue.app/pt/setup/#provider"
       # Status
       MSG_STATUS_TITLE_MAC="Saytrue Ollama Status (macOS)"
       MSG_STATUS_TITLE_LINUX="Saytrue Ollama Status (Linux)"
@@ -2016,7 +2016,7 @@ setup_messages() {
       MSG_OLLAMA_CONFIG="Konfiguracja Ollama:"
       MSG_MODEL_LABEL="  Model:    "
       MSG_BASE_URL_LABEL="  Base URL: "
-      MSG_DOCS="Dokumentacja: https://github.com/fidpa/saytrue-releases/blob/main/docs/reference/OLLAMA_SETUP.md"
+      MSG_DOCS="Dokumentacja: https://saytrue.app/pl/setup/#provider"
       # Status
       MSG_STATUS_TITLE_MAC="Saytrue Ollama Status (macOS)"
       MSG_STATUS_TITLE_LINUX="Saytrue Ollama Status (Linux)"
@@ -2291,7 +2291,7 @@ setup_messages() {
       MSG_OLLAMA_CONFIG="Ollama-konfiguration:"
       MSG_MODEL_LABEL="  Modell:    "
       MSG_BASE_URL_LABEL="  Bas-URL:   "
-      MSG_DOCS="Dokumentation: https://github.com/fidpa/saytrue-releases/blob/main/docs/reference/OLLAMA_SETUP.md"
+      MSG_DOCS="Dokumentation: https://saytrue.app/sv/setup/#provider"
       # Status
       MSG_STATUS_TITLE_MAC="Saytrue Ollama-status (macOS)"
       MSG_STATUS_TITLE_LINUX="Saytrue Ollama-status (Linux)"
@@ -2566,7 +2566,7 @@ setup_messages() {
       MSG_OLLAMA_CONFIG="Ollama-konfiguration:"
       MSG_MODEL_LABEL="  Model:     "
       MSG_BASE_URL_LABEL="  Basis-URL: "
-      MSG_DOCS="Dokumentation: https://github.com/fidpa/saytrue-releases/blob/main/docs/reference/OLLAMA_SETUP.md"
+      MSG_DOCS="Dokumentation: https://saytrue.app/da/setup/#provider"
       # Status
       MSG_STATUS_TITLE_MAC="Saytrue Ollama-status (macOS)"
       MSG_STATUS_TITLE_LINUX="Saytrue Ollama-status (Linux)"
@@ -2841,7 +2841,7 @@ setup_messages() {
       MSG_OLLAMA_CONFIG="Ollama-Konfiguration:"
       MSG_MODEL_LABEL="  Modell:   "
       MSG_BASE_URL_LABEL="  Base URL: "
-      MSG_DOCS="Dokumentation: https://github.com/fidpa/saytrue-releases/blob/main/docs/reference/OLLAMA_SETUP.md"
+      MSG_DOCS="Dokumentation: https://saytrue.app/einrichtung/#provider"
       # Status
       MSG_STATUS_TITLE_MAC="Saytrue Ollama Status (macOS)"
       MSG_STATUS_TITLE_LINUX="Saytrue Ollama Status (Linux)"

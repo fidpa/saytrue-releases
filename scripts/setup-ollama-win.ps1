@@ -326,7 +326,7 @@ function Initialize-Messages {
             $script:Msg.OllamaConfig       = 'Ollama configuration:'
             $script:Msg.ModelLabel         = '  Model:    '
             $script:Msg.BaseUrlLabel       = '  Base URL: '
-            $script:Msg.Docs               = 'Documentation: https://github.com/fidpa/saytrue-releases/blob/main/docs/reference/OLLAMA_SETUP.md'
+            $script:Msg.Docs               = 'Documentation: https://saytrue.app/en/setup/#provider'
             # Misc
             $script:Msg.TestModel          = 'Testing model...'
             $script:Msg.TestOk             = 'Model test successful'
@@ -562,7 +562,7 @@ function Initialize-Messages {
             $script:Msg.OllamaConfig       = 'Configuración de Ollama:'
             $script:Msg.ModelLabel         = '  Modelo:   '
             $script:Msg.BaseUrlLabel       = '  Base URL: '
-            $script:Msg.Docs               = 'Documentación: https://github.com/fidpa/saytrue-releases/blob/main/docs/reference/OLLAMA_SETUP.md'
+            $script:Msg.Docs               = 'Documentación: https://saytrue.app/es/setup/#provider'
             # Misc
             $script:Msg.TestModel          = 'Probando modelo...'
             $script:Msg.TestOk             = 'Prueba del modelo exitosa'
@@ -798,7 +798,7 @@ function Initialize-Messages {
             $script:Msg.OllamaConfig       = 'Configuration Ollama :'
             $script:Msg.ModelLabel         = '  Modèle :   '
             $script:Msg.BaseUrlLabel       = '  Base URL : '
-            $script:Msg.Docs               = 'Documentation : https://github.com/fidpa/saytrue-releases/blob/main/docs/reference/OLLAMA_SETUP.md'
+            $script:Msg.Docs               = 'Documentation : https://saytrue.app/fr/setup/#provider'
             # Misc
             $script:Msg.TestModel          = 'Test du modèle...'
             $script:Msg.TestOk             = 'Test du modèle réussi'
@@ -1034,7 +1034,7 @@ function Initialize-Messages {
             $script:Msg.OllamaConfig       = 'Configurazione Ollama:'
             $script:Msg.ModelLabel         = '  Modello:   '
             $script:Msg.BaseUrlLabel       = '  Base URL: '
-            $script:Msg.Docs               = 'Documentazione: https://github.com/fidpa/saytrue-releases/blob/main/docs/reference/OLLAMA_SETUP.md'
+            $script:Msg.Docs               = 'Documentazione: https://saytrue.app/it/setup/#provider'
             # Misc
             $script:Msg.TestModel          = 'Test del modello...'
             $script:Msg.TestOk             = 'Test del modello riuscito'
@@ -1270,7 +1270,7 @@ function Initialize-Messages {
             $script:Msg.OllamaConfig       = 'Ollama-configuratie:'
             $script:Msg.ModelLabel         = '  Model:    '
             $script:Msg.BaseUrlLabel       = '  Base URL: '
-            $script:Msg.Docs               = 'Documentatie: https://github.com/fidpa/saytrue-releases/blob/main/docs/reference/OLLAMA_SETUP.md'
+            $script:Msg.Docs               = 'Documentatie: https://saytrue.app/nl/setup/#provider'
             # Misc
             $script:Msg.TestModel          = 'Model testen...'
             $script:Msg.TestOk             = 'Modeltest geslaagd'
@@ -1506,7 +1506,7 @@ function Initialize-Messages {
             $script:Msg.OllamaConfig       = 'Configuração do Ollama:'
             $script:Msg.ModelLabel         = '  Modelo:    '
             $script:Msg.BaseUrlLabel       = '  Base URL: '
-            $script:Msg.Docs               = 'Documentação: https://github.com/fidpa/saytrue-releases/blob/main/docs/reference/OLLAMA_SETUP.md'
+            $script:Msg.Docs               = 'Documentação: https://saytrue.app/pt/setup/#provider'
             # Misc
             $script:Msg.TestModel          = 'A testar o modelo...'
             $script:Msg.TestOk             = 'Teste do modelo bem-sucedido'
@@ -1742,7 +1742,7 @@ function Initialize-Messages {
             $script:Msg.OllamaConfig       = 'Konfiguracja Ollama:'
             $script:Msg.ModelLabel         = '  Model:    '
             $script:Msg.BaseUrlLabel       = '  Base URL: '
-            $script:Msg.Docs               = 'Dokumentacja: https://github.com/fidpa/saytrue-releases/blob/main/docs/reference/OLLAMA_SETUP.md'
+            $script:Msg.Docs               = 'Dokumentacja: https://saytrue.app/pl/setup/#provider'
             # Misc
             $script:Msg.TestModel          = 'Testowanie modelu...'
             $script:Msg.TestOk             = 'Test modelu zakończony pomyślnie'
@@ -1978,7 +1978,7 @@ function Initialize-Messages {
             $script:Msg.OllamaConfig       = 'Ollama-konfiguration:'
             $script:Msg.ModelLabel         = '  Modell:    '
             $script:Msg.BaseUrlLabel       = '  Bas-URL:   '
-            $script:Msg.Docs               = 'Dokumentation: https://github.com/fidpa/saytrue-releases/blob/main/docs/reference/OLLAMA_SETUP.md'
+            $script:Msg.Docs               = 'Dokumentation: https://saytrue.app/sv/setup/#provider'
             # Misc
             $script:Msg.TestModel          = 'Testar modell...'
             $script:Msg.TestOk             = 'Modelltest lyckades'
@@ -2214,7 +2214,7 @@ function Initialize-Messages {
             $script:Msg.OllamaConfig       = 'Ollama-konfiguration:'
             $script:Msg.ModelLabel         = '  Model:     '
             $script:Msg.BaseUrlLabel       = '  Basis-URL: '
-            $script:Msg.Docs               = 'Dokumentation: https://github.com/fidpa/saytrue-releases/blob/main/docs/reference/OLLAMA_SETUP.md'
+            $script:Msg.Docs               = 'Dokumentation: https://saytrue.app/da/setup/#provider'
             # Misc
             $script:Msg.TestModel          = 'Tester model...'
             $script:Msg.TestOk             = 'Modeltest lykkedes'
@@ -2450,7 +2450,7 @@ function Initialize-Messages {
             $script:Msg.OllamaConfig       = 'Ollama-Konfiguration:'
             $script:Msg.ModelLabel         = '  Modell:   '
             $script:Msg.BaseUrlLabel       = '  Base URL: '
-            $script:Msg.Docs               = 'Dokumentation: https://github.com/fidpa/saytrue-releases/blob/main/docs/reference/OLLAMA_SETUP.md'
+            $script:Msg.Docs               = 'Dokumentation: https://saytrue.app/einrichtung/#provider'
             # Misc
             $script:Msg.TestModel          = 'Teste Modell...'
             $script:Msg.TestOk             = 'Modell-Test erfolgreich'

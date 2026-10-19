@@ -55,9 +55,9 @@ Ist ein Text zu kurz, analysiert Saytrue ihn nicht und nennt den Grund. In Pro p
 | Fehlschluss | 16 Typen von Argumentationsfehlern | „Ohne Unterstellung“ | Pro |
 | Vier Seiten | Schulz von Thun | „Mit klarem Appell“ | Pro |
 | Gewaltfreie Kommunikation | Rosenberg | „Beobachtung statt Bewertung“ | Pro |
-| Kognitive Verzerrungen | Beck | „Ohne Übergeneralisierung“ | Pro |
+| Kognitive Verzerrungen | Beck | „Sachlich statt pauschal“ | Pro |
 | Transaktionsanalyse | Berne | „Auf Augenhöhe“ | Pro |
-| Bewertung (Appraisal) | Lazarus, Scherer | „Aktiv gestaltbar formuliert“ | Pro |
+| Bewertung (Appraisal) | Lazarus, Scherer | „Mit dem, was dir wichtig ist“ | Pro |
 | Regulatorischer Fokus | Higgins | „Auf das Ziel ausgerichtet“ | Pro |
 | Sprechertrennung | nur im Modus Gespräch | keine | Pro |
 

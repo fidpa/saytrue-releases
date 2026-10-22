@@ -71,7 +71,7 @@ Ist ein Text zu kurz, analysiert Saytrue ihn nicht und nennt den Grund. In Pro p
 - **Bibelimpuls und Gebet (Free, standardmäßig aus):** ein bis drei thematisch passende Bibelstellen (Schlachter 2000 für Deutsch, World English Bible für die übrigen Sprachen, lokal gespeichert) und ein kurzes Gebet zum Text.
 - **Diktat und Schnellaufnahme:** Nur-Transkription mit gesprochener Zeichensetzung; Schnellaufnahme über das Tray-Menü legt den Text in die Zwischenablage (nicht unter Windows).
 - **Hilfe-Chat:** beantwortet Fragen zur App und zu den Ansätzen aus einer lokalen Wissensbasis.
-- **Speichern und Export:** Aufnahmen werden lokal gespeichert; der Verlauf lässt sich als Markdown, Text, PDF oder Word exportieren.
+- **Speichern und Export:** Aufnahmen werden lokal gespeichert. Verlauf und Aufnahmen lassen sich als PDF, Word oder Markdown exportieren, Aufnahmen zusätzlich als JSON mit den Rohdaten.
 - **15 Sprachen:** Deutsch, Englisch, Spanisch, Französisch, Italienisch, Niederländisch, Portugiesisch, Polnisch, Schwedisch, Dänisch, Norwegisch, Tschechisch, Rumänisch, Russisch und Japanisch, in Oberfläche, Prompts und Transkription.
 
 ---

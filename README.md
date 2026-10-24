@@ -2,7 +2,7 @@
 
 > **Die rechten Worte finden**
 
-[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](#stand)
+[![Version](https://img.shields.io/badge/version-0.2.0-blue.svg)](#stand)
 [![Release](https://img.shields.io/badge/release-0.1.0-green.svg)](https://github.com/fidpa/saytrue-releases/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey.svg)](#plattformen)
 [![Languages](https://img.shields.io/badge/i18n-15%20languages-blue.svg)](#weitere-funktionen)
@@ -155,4 +155,4 @@ Alle Rechte vorbehalten. Nutzungsbedingungen: [saytrue.de/eula](https://saytrue.
 
 ---
 
-**Autor:** Marc Allgeier | **Version:** 0.1.0
+**Autor:** Marc Allgeier | **Version:** 0.2.0

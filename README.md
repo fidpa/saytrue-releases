@@ -99,7 +99,7 @@ Free und Pro sind getrennte Ausgaben der App. Pro gibt es nur in den Stores; au�
 
 | Plattform | Architektur | Vertrieb | Ausgabe |
 |-----------|-------------|----------|---------|
-| macOS | Apple Silicon, Intel | [App Store](https://apps.apple.com/app/id6821602333) (Pro in Prüfung) | Free, Pro |
+| macOS | Apple Silicon, Intel | App Store: [Free](https://apps.apple.com/app/id6821602333), [Pro](https://apps.apple.com/app/id6821602496) | Free, Pro |
 | macOS | Apple Silicon, Intel | Homebrew: `brew install --cask fidpa/saytrue/saytrue` | Free |
 | Windows | x64 | Microsoft Store: [Free](https://apps.microsoft.com/detail/9P9290WR9C6J), [Pro](https://apps.microsoft.com/detail/9P3KJNXH5X3S) | Free, Pro |
 | Windows | x64 | Installer (NSIS) im [GitHub-Release](https://github.com/fidpa/saytrue-releases/releases/latest), winget folgt | Free |
@@ -107,7 +107,7 @@ Free und Pro sind getrennte Ausgaben der App. Pro gibt es nur in den Stores; au�
 | Linux | x64 | [Snap Store](https://snapcraft.io/saytrue): `sudo snap install saytrue` | Free |
 | iPhone | ab iOS 26 | [App Store](https://apps.apple.com/app/id6821602333), derselbe Eintrag wie für den Mac (Pro in Prüfung) | Free, Pro |
 
-Stand aller Wege (24.10.2026): Version 0.1.0 ist als GitHub-Release (macOS, Windows, Linux), über Homebrew und im Snap Store (Kanal stable) veröffentlicht; Saytrue Free ist im Microsoft Store und im App Store (Mac und iPhone) erhältlich, Saytrue Pro im Microsoft Store; Saytrue Pro im App Store prüft Apple gerade, winget folgt. macOS mit Apple Silicon ist die Hauptplattform der Entwicklung. Unterschiede je Plattform: MLX-Whisper nur auf Apple Silicon; der App-Store-Build hat statt des globalen Tastenkürzels eines innerhalb der App; auf dem iPhone wandelt die Spracherkennung des Systems Gesprochenes in Text um, die Analysen laufen mit Apple Intelligence oder einem Cloud-Anbieter (kein Ollama); Store-Ausgaben aktualisieren sich über den Store, einen In-App-Updater gibt es nur bei den Linux-Paketen .deb und .AppImage. Die Linux-Pakete brauchen glibc 2.39 oder neuer (Ubuntu 24.04, Debian 13, Fedora 40 und neuer).
+Stand aller Wege (25.10.2026): Version 0.2.0 ist als GitHub-Release (macOS, Windows, Linux), über Homebrew und im Snap Store (Kanal stable) veröffentlicht; Saytrue Free ist im Microsoft Store und im App Store (Mac und iPhone) erhältlich, Saytrue Pro im Microsoft Store und im Mac App Store; Saytrue Pro fürs iPhone prüft Apple gerade, winget folgt. macOS mit Apple Silicon ist die Hauptplattform der Entwicklung. Unterschiede je Plattform: MLX-Whisper nur auf Apple Silicon; der App-Store-Build hat statt des globalen Tastenkürzels eines innerhalb der App; auf dem iPhone wandelt die Spracherkennung des Systems Gesprochenes in Text um, die Analysen laufen mit Apple Intelligence oder einem Cloud-Anbieter (kein Ollama); Store-Ausgaben aktualisieren sich über den Store, einen In-App-Updater gibt es nur bei den Linux-Paketen .deb und .AppImage. Die Linux-Pakete brauchen glibc 2.39 oder neuer (Ubuntu 24.04, Debian 13, Fedora 40 und neuer).
 
 ---
 
